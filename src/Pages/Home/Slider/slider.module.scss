@@ -1,0 +1,12 @@
+.wrapper {
+    background-color: #000e2b;
+    // background: radial-gradient(farthest-corner at 30vw -100vh,#52b5f9 0,transparent 70%),radial-gradient(farthest-corner at 100vw -100vh,#ff8086 0,transparent 55%);
+    display: flex;
+    justify-content: center;
+}
+.inner {
+    width: 1404px;
+    height: 606px;
+    padding: 40px;
+    display: flex;
+}
